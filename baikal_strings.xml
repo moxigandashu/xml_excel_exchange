@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_news">首頁</string>
+    <string name="tab_video">視頻咖</string>
+    <string name="tab_settings">我的</string>
+    <string name="loading">等待刷新…</string>
+    <string name="loading2">正在加載中…</string>
+    <string name="loading_result">已刷新%d條新聞</string>
+    <string name="loading_fail">加載失敗，請稍後再試</string>
+    <string name="last_view">上次看到這裡，點擊查看新內容</string>
+    <string name="settings_push">推播通知</string>
+    <string name="settings_autostart">自動播放下一條影片</string>
+    <string name="settings_autostart_4g">3G/4G自動播放影片</string>
+    <string name="settings_lockscreen">鎖屏閱讀</string>
+    <string name="settings_mail">意見回饋</string>
+    <string name="settings_service">服務條款</string>
+    <string name="settings_privacy">隱私權政策</string>
+    <string name="settings_version">版本訊息</string>
+    <string name="close_title">我想關閉這條消息，原因是：</string>
+    <string name="close_reason1">不感興趣</string>
+    <string name="close_reason2">品質不高</string>
+    <string name="close_reason3">重複出現</string>
+    <string name="net_error">沒有網絡連接，請稍後再試</string>
+    <string name="retry">重試</string>
+    <string name="replay">重播</string>
+    <string name="play_next_title">接下來播放</string>
+    <string name="play_next_btn">下一則</string>
+    <string name="share">分享</string>
+    <string name="feeds_detail_font">字體大小</string>
+    <string name="feeds_detail_l">大</string>
+    <string name="feeds_detail_s">小</string>
+    <string name="feeds_click_update">網絡不給力，點擊屏幕重試</string>
+    <string name="feeds_list_container_tag" translatable="false">feeds_list_container_tag</string>
+    <string name="profile_settings">設定</string>
+    <string name="profile_fans">鄉民爆卦粉絲團</string>
+    <string name="profile_login">快速登入</string>
+    <string name="share_fail">分享失敗</string>
+    <string name="share_by_fb">設備上未安裝LINE，您可以把快樂分享到Facebook。</string>
+    <string name="share_to_fb">分享Facebook</string>
+    <string name="share_cancel">取消</string>
+    <string name="facebook_app_id" translatable="false">545115075840190</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb[545115075840190]</string>
+    <string name="feeds_click_server_update">服務器凌亂，點擊屏幕重試</string>
+    <string name="next_play_string">播放下一條</string>
+    <string name="feeds_media_load_error">視頻加載出錯, 不能播放</string>
+    <string name="feeds_media_load_fail">視頻加載失敗</string>
+    <string name="feeds_media_button_reload">重新加載</string>
+    <string name="notice_refresh_recommend">網絡不給力，點擊刷新重試</string>
+    <string name="user_login_fail">登入失敗</string>
+    <string name="get_user_data_fail">獲取用戶資訊失敗</string>
+</resources>
