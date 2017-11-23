@@ -24,7 +24,8 @@ xml与Excel互相转换的工具，含GUI界面
  
  ### 三、操作步骤
  执行change.py，弹出对话框：
- ![Image text]（https://raw.githubusercontent.com/moxigandashu/xml_excel_exchange/master/img_folder/sample.jpg），
+ ![Image text](https://raw.githubusercontent.com/moxigandashu/xml_excel_exchange/master/img_folder/sample.jpg)
+ 
  在对话框中输入xml和Excel文件名，以及保存的路径
  1. 提取xml中的字符串到Excel：点击xml->excel
  2. 将翻译后的excel替代xml字符串：点击Excel->xml
